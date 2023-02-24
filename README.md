@@ -39,9 +39,9 @@ This dataset has 3 files as explained below:
 ## Technologies Used
 The project is implemented using the following technologies:
 
-<br>Python
+Python
 <br>Jupyter Notebook
-<br><br>Pandas
+<br>Pandas
 <br>Matplotlib
 <br>Seaborn
 
